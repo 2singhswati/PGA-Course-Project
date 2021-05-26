@@ -1,15 +1,14 @@
 # Getting-and-Cleaning-Data-Week-4-Assignment
-This repo was created to finish the assignment for week 4 of Getting and Cleaning Data Coursera course.
+In this repository, we will be doing the final course project of Getting and Cleaning Data.
 
-First, download and unzip the data file into your R working directory.
-Second, download the R source code into your R working directory.
-Finally, execute R source code to generate tidy data file.
+The first step is to download and unzip the data file into our R working directory.
+And the last step would be to execute R source code to generate a tidy data file.
 
 # Data description
-The variables in the data X are sensor signals measured with waist-mounted smartphone from 30 subjects. The variable in the data Y indicates activity type the subjects performed during recording.
+In data X, the variables are sensor signals which are measured with waist-mounted smartphone from 30 subjects. In data Y, the variables indicate the activity type that the subjects performed during recording.
 
 # Code explaination
-The code combined training dataset and test dataset, and extracted partial variables to create another dataset with the averages of each variable for each activity.
+In The code, we combined training dataset and test dataset. From there we extracte partial variables to create another dataset which has the averages of each variable for each activity.
 
 # New dataset
 The new generated dataset contained variables calculated based on the mean and standard deviation. Each row of the dataset is an average of each activity type for all subjects.
