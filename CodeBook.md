@@ -10,17 +10,18 @@ Subject column is numbered sequentially from 1 to 30. Activity column has 6 type
 
 WALKING  
 WALKING_UPSTAIRS  
-WALKING_DOWNSTAIRS
-SITTING
-TALKING
+WALKING_DOWNSTAIRS  
+SITTING  
+STANDING  
+LAYING  
 
-The tidy data contains 6 rows (averaged based on activity) and 68 columns (66 variables and activity labels).
-"activitylabel"
-"subject"
-"tBodyAcc-mean()-X"
-"tBodyAcc-mean()-Y"
-"tBodyAcc-mean()-Z"
-"tBodyAcc-std()-X"
+The tidy data contains 6 rows (averaged based on activity) and 68 columns (66 variables and activity labels).  
+"activitylabel"  
+"subject"  
+"tBodyAcc-mean()-X"  
+"tBodyAcc-mean()-Y"  
+"tBodyAcc-mean()-Z"  
+"tBodyAcc-std()-X"  
 "tBodyAcc-std()-Y"
 "tBodyAcc-std()-Z"
 "tGravityAcc-mean()-X"
