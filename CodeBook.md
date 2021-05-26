@@ -8,8 +8,8 @@ std(): Standard deviation
 The data were averaged based on subject and activity group.
 Subject column is numbered sequentially from 1 to 30. Activity column has 6 types as listed below.
 
-WALKING
-WALKING_UPSTAIRS
+WALKING  
+WALKING_UPSTAIRS  
 WALKING_DOWNSTAIRS
 SITTING
 TALKING
